@@ -154,7 +154,7 @@ if __name__ == "__main__":
     msg += get_wuyou_coins()
 
     # 发送邮件
-    email = Email(msg)
-    email.send()
+    #email = Email(msg)
+    #email.send()
 
     print("运行结束。")
